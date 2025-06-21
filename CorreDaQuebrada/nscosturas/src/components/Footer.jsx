@@ -44,7 +44,7 @@ export default function Footer() {
         <div className="col-span-1">
           <h4 className="text-xl font-semibold text-white mb-4">Redes Sociais</h4>
           <div className="flex space-x-4">
-            <a href="https://instagram.com/nscosturas" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-purple-400 transition-colors text-2xl">
+            <a href="https://www.instagram.com/nscosturas_/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-purple-400 transition-colors text-2xl">
               <FaInstagram />
             </a>
             <a href="https://wa.me/XXXXXXXXXXX" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-purple-400 transition-colors text-2xl">
